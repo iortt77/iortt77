@@ -6,7 +6,7 @@
 
 - 🚀 Estou empolgado para colaborar com a comunidade, compartilhar conhecimento e aprender com outros desenvolvedores. Se você tem alguma ideia de projeto ou precisa de ajuda, sinta-se à vontade para entrar em contato!
 
--Vamos juntos transformar ideias em soluções inovadoras!
+- Vamos juntos transformar ideias em soluções inovadoras!
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iortt77&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iortt77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
