@@ -2,9 +2,9 @@
 
 - 🧑🏻‍🏫 estudante do Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
 
- -🔍 Atualmente, estou explorando o universo da programação e desenvolvimento de software, sempre em busca de aprender e aprimorar minhas habilidades. No meu perfil, você encontrará projetos relacionados a [suas áreas de interesse, como desenvolvimento web, ciência de dados, etc.] e contribuições para diversas iniciativas de código aberto.
+ - 🔍 Atualmente, estou explorando o universo da programação e desenvolvimento de software, sempre em busca de aprender e aprimorar minhas habilidades. No meu perfil, você encontrará projetos relacionados a [suas áreas de interesse, como desenvolvimento web, ciência de dados, etc.] e contribuições para diversas iniciativas de código aberto.
 
--🚀 Estou empolgado para colaborar com a comunidade, compartilhar conhecimento e aprender com outros desenvolvedores. Se você tem alguma ideia de projeto ou precisa de ajuda, sinta-se à vontade para entrar em contato!
+- 🚀 Estou empolgado para colaborar com a comunidade, compartilhar conhecimento e aprender com outros desenvolvedores. Se você tem alguma ideia de projeto ou precisa de ajuda, sinta-se à vontade para entrar em contato!
 
 -Vamos juntos transformar ideias em soluções inovadoras!
   
