@@ -1,7 +1,12 @@
-## Olá Pessoal! Henrique Da Rosa Gazola aqui 👋
+## 👋 Olá! Sou Henrique da Rosa Gazola, estudante no CEDUP.
 
 - 🧑🏻‍🏫 estudante do Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
-- 💻 Perfil destinado às minhas aulas de Linguagem de Programação, Lógica de Programação e Banco de Dados.
+
+ -🔍 Atualmente, estou explorando o universo da programação e desenvolvimento de software, sempre em busca de aprender e aprimorar minhas habilidades. No meu perfil, você encontrará projetos relacionados a [suas áreas de interesse, como desenvolvimento web, ciência de dados, etc.] e contribuições para diversas iniciativas de código aberto.
+
+-🚀 Estou empolgado para colaborar com a comunidade, compartilhar conhecimento e aprender com outros desenvolvedores. Se você tem alguma ideia de projeto ou precisa de ajuda, sinta-se à vontade para entrar em contato!
+
+-Vamos juntos transformar ideias em soluções inovadoras!
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iortt77&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iortt77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
