@@ -1,4 +1,4 @@
-## 👋 Olá! Sou Henrique da Rosa Gazola, universitario no curso de engenharia de software do UNISATC.
+## 👋 Olá! Sou Henrique da Rosa Gazola, universitário no curso de engenharia de software do UNISATC.
 
 - 🧑🏻‍🏫 Cursando engenharia de software na UNISATC Criciúma/SC - Brasil
 
