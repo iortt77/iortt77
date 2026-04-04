@@ -1,12 +1,8 @@
-## 👋 Olá! Sou Henrique da Rosa Gazola, estudante no CEDUP.
+## 👋 Olá! Sou Henrique da Rosa Gazola, universitario no curso de engenharia de software do UNISATC.
 
-- 🧑🏻‍🏫 estudante do Curso Técnico em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
+- 🧑🏻‍🏫 Cursando engenharia de software na UNISATC Criciúma/SC - Brasil
 
- - 🔍 Atualmente, estou explorando o universo da programação e desenvolvimento de software, sempre em busca de aprender e aprimorar minhas habilidades. No meu perfil, você encontrará projetos relacionados a quase qualquer coisa e contribuições para diversas iniciativas de código aberto.
-
-- 🚀 Estou empolgado para colaborar com a comunidade, compartilhar conhecimento e aprender com outros desenvolvedores. Se você tem alguma ideia de projeto ou precisa de ajuda, sinta-se à vontade para entrar em contato!
-
-- Vamos juntos transformar ideias em soluções inovadoras!
+- 🚀 Estou empolgado para aprender e criar coisas com a tecnologia, compartilhar conhecimento e aprender com outros desenvolvedores. E compartilhar algumas ideias de projetos!
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iortt77&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=iortt77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
