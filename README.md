@@ -2,6 +2,8 @@
 
 - 🧑🏻‍🏫 Cursando engenharia de software na UNISATC Criciúma/SC - Brasil
 
+- 🏫 E cursado no tecnico em informatica do CEDUP Abílio Paulo – Criciúma/SC - Brasil
+
 - 🚀 Estou empolgado para aprender e criar coisas com a tecnologia, compartilhar conhecimento e aprender com outros desenvolvedores. E compartilhar algumas ideias de projetos!
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iortt77&theme=radical&show_icons=true)
